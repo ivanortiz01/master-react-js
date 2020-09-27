@@ -1,6 +1,8 @@
 # React
 Libreria javascript para crear interfaces web.
 
+[Curso](https://www.udemy.com/course/universidad-react-de-cero-a-master/)
+
 # Comando para crear app en react:
 create-react-app
 npm install -g create-react-app
